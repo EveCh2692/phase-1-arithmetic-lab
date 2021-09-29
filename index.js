@@ -5,8 +5,7 @@ const random = Math.ceil( Math.random() * 10 ) + 2;
 let num3 = 22
 let num4 = 6
 const mod = num3 % num4
-let num5 = [2,4,6,8,10,12,14,16,18]
-const max = Math.max(num3)
+const max = Math.max(2,4,6,8,10,12,14,16,18,20)
 
  
  
